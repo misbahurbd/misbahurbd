@@ -8,7 +8,7 @@
 
 <!-- Subtitle -->
 <p align="center">
-  💻 Passionate Full-Stack Web Developer | 🚀 Digital Marketing Enthusiast
+  💻 Passionate Full-Stack Web Developer | 🚀 Tech Enthusiast
 </p>
 
 <!-- Social Media Icons -->
@@ -33,21 +33,17 @@
 <!-- About Me -->
 ## 👋 About Me
 
-Hello, I'm Misbahur Rahman, a tech enthusiast and digital marketing strategist based in the picturesque town of Moulvibazar, Bangladesh. When I'm not crafting code or optimizing digital landscapes, you'll find me immersed in sci-fi movies, globe-trotting, exploring new frontiers through online tutorials, and indulging in sports.
+Hello, I'm Misbahur Rahman, a tech enthusiast and full-stack web developer based in the picturesque town of Moulvibazar, Bangladesh. When I'm not crafting code, I'm immersed in sci-fi movies, globe-trotting, exploring new frontiers through online tutorials, and indulging in sports.
 
 <!-- Professional Journey -->
 ## 🚀 Professional Journey
 
-My odyssey in the digital realm began immediately after completing my higher-secondary education. Fueled by an insatiable thirst for knowledge, I delved into the worlds of digital marketing and web development. Eager to expand my skill set, I enrolled in a government course to master the art of digital marketing. In 2017, I embarked on a career as a freelance digital marketer on Fiverr.
-
-Simultaneously, late in 2017, I commenced my diploma in web development at "Shahjalal University of Science and Technology," marking my transition into the world of web development. Over the years, I sharpened my skills in both domains, with a particular focus on web development, including expertise in React.js, Next.js, and the MERN stack.
+My odyssey in the digital realm began immediately after completing my higher-secondary education. Fueled by an insatiable thirst for knowledge, I delved into the world of web development. Eager to expand my skill set, I embarked on a diploma in web development at "Shahjalal University of Science and Technology" in late 2017, marking my transition into the world of full-stack development.
 
 <!-- Professional Accomplishments -->
 ## 🌟 Professional Accomplishments
 
-In my digital marketing journey, I've had the privilege of collaborating with over 300 YouTubers, helping them skyrocket their online presence. I've also partnered with more than 20 business owners to supercharge their websites' SEO and marketing strategies.
-
-In the realm of web development, I've undertaken thrilling projects with companies in the cargo, music, and e-commerce sectors. For me, working with code is like playing an exhilarating game, and my ambition is to be recognized as the top developer in my country in the coming years.
+I have had the privilege of working on thrilling projects with companies in the cargo, music, and e-commerce sectors. I love working with code, and for me, it's like playing an exhilarating game. My ambition is to be recognized as the top developer in my country in the coming years.
 
 <!-- Skills Section -->
 ## 💡 Skills
@@ -81,7 +77,7 @@ In the realm of web development, I've undertaken thrilling projects with compani
 <!-- Connect Section -->
 ## 📬 Let's Connect
 
-Feel free to reach out on various social media platforms and my website. Let's collaborate on exciting projects or engage in thought-provoking conversations about the latest trends in the digital realm. Together, we can pave the way to a brighter, tech-savvy future!
+Feel free to reach out on various social media platforms and my website. Let's collaborate on exciting projects or engage in thought-provoking conversations about the latest trends in the tech world. Together, we can pave the way to a brighter, tech-savvy future!
 
 <!-- Footer Image -->
 <p align="center">
