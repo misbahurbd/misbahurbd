@@ -56,7 +56,7 @@ I have had the privilege of working on thrilling projects with companies in the 
   <img src="https://img.shields.io/badge/Bootstrap-Web-Developer-orange?style=for-the-badge&logo=bootstrap" alt="Bootstrap">
   <img src="https://img.shields.io/badge/TailwindCSS-Web-Developer-orange?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/React.js-Web-Developer-orange?style=for-the-badge&logo=react" alt="React.js">
-  <img src="https://img.shields.io/badge/Next.js-Web-Developer-orange?style=for-the-badge&logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/Next.js-Web-Developer-orange?style=for-the-badge&logo=next-dot-js" alt="Next.js">
   <img src="https://img.shields.io/badge/TypeScript-Web-Developer-orange?style=for-the-badge&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/WordPress-Web-Developer-orange?style=for-the-badge&logo=wordpress" alt="WordPress">
   <img src="https://img.shields.io/badge/Wix-Web-Developer-orange?style=for-the-badge&logo=wix" alt="Wix">
@@ -65,7 +65,7 @@ I have had the privilege of working on thrilling projects with companies in the 
 <!-- Back-End Skills -->
 ### Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-Back-End-Developer-blue?style=for-the-badge&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/Node.js-Back-End-Developer-blue?style=for-the-badge&logo=node-dot-js" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-Back-End-Developer-blue?style=for-the-badge&logo=express" alt="Express.js">
   <img src="https://img.shields.io/badge/MongoDB-Back-End-Developer-blue?style=for-the-badge&logo=mongodb" alt="MongoDB">
   <img src="https://img.shields.io/badge/Prisma ORM-Back-End-Developer-blue?style=for-the-badge&logo=prisma" alt="Prisma ORM">
@@ -79,7 +79,3 @@ I have had the privilege of working on thrilling projects with companies in the 
 
 Feel free to reach out on various social media platforms and my website. Let's collaborate on exciting projects or engage in thought-provoking conversations about the latest trends in the tech world. Together, we can pave the way to a brighter, tech-savvy future!
 
-<!-- Footer Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" height="200" alt="Misbahur Rahman">
-</p>
