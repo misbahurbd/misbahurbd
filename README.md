@@ -8,7 +8,7 @@
 
 <!-- Subtitle -->
 <p align="center">
-  Passionate Web Developer | Digital Marketing Enthusiast | Sci-Fi Movie Buff
+  Passionate Full-Stack Web Developer | Digital Marketing Enthusiast
 </p>
 
 <!-- Social Media Icons -->
