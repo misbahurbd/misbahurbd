@@ -1,6 +1,6 @@
 <!-- Title -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" width="200" height="200" alt="Misbahur Rahman">
+  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" height="200" alt="Misbahur Rahman">
 </p>
 
 <!-- Header -->
