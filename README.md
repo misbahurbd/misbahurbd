@@ -40,6 +40,7 @@ My odyssey in the digital realm began immediately after completing my higher-sec
 
 I have had the privilege of working on thrilling projects with companies in the cargo, music, and e-commerce sectors. I love working with code, and for me, it's like playing an exhilarating game. My ambition is to be recognized as the top developer in my country in the coming years.
 
+
 <!-- Skills Section -->
 
 ## 💡 Skills
