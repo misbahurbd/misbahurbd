@@ -22,9 +22,13 @@
   <a href="https://youtube.com/@misbahurbd" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </div>
 
+
+
 <!-- status -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=misbahurbd&theme=transparent)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=misbahurbd&theme=transparent)](https://git.io/streak-stats)
+</div>
 
 <!-- About Me -->
 
