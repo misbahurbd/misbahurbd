@@ -25,9 +25,8 @@
 
 
 <!-- status -->
-
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=misbahurbd&theme=transparent)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=misbahurbd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <!-- About Me -->
