@@ -26,7 +26,7 @@
 
 <!-- status -->
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=misbahurbd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=misbahurbd&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <!-- About Me -->
