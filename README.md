@@ -1,10 +1,7 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" height="200" alt="Misbahur Rahman">
+  <img src="https://raw.githubusercontent.com/misbahurbd/misbahurbd/main/Dark%20Blue%20Modern%20Design%20Twitter%20Header.png" alt="Misbahur Rahman">
 </p>
-
-<!-- Title -->
-<h1 align="center">Misbahur Rahman</h1>
 
 <!-- Subtitle -->
 <p align="center">
@@ -20,13 +17,6 @@
   <a href="https://pinterest.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
   <a href="https://twitter.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://youtube.com/@misbahurbd" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-</div>
-
-
-
-<!-- status -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=misbahurbd&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <!-- About Me -->
@@ -47,6 +37,15 @@ My odyssey in the digital realm began immediately after completing my higher-sec
 
 I have had the privilege of working on thrilling projects with companies in the cargo, music, and e-commerce sectors. I love working with code, and for me, it's like playing an exhilarating game. My ambition is to be recognized as the top developer in my country in the coming years.
 
+<!-- status -->
+
+## 📊 Profile Statistics
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=misbahurbd&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misbahurbd&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="misbahurbd" />
+</div>
+
 
 <!-- Skills Section -->
 
@@ -60,13 +59,11 @@ I have had the privilege of working on thrilling projects with companies in the 
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next JS-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress">
 </p>
 
 <!-- Backend Skills -->
@@ -76,7 +73,6 @@ I have had the privilege of working on thrilling projects with companies in the 
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">  
   <img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
