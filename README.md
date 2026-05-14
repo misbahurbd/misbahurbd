@@ -3,104 +3,118 @@
   <img src="https://raw.githubusercontent.com/misbahurbd/misbahurbd/main/Dark%20Blue%20Modern%20Design%20Twitter%20Header.png" alt="Misbahur Rahman">
 </p>
 
-<!-- Subtitle -->
+<!-- Typing Animation -->
 <p align="center">
-  💻 Passionate Full-Stack Web Developer | 🚀 Tech Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;NestJS+%2B+Next.js+Architect+%F0%9F%8F%97%EF%B8%8F;Building+SaaS+Products+%40+Pxlhut+%F0%9F%92%BC;4%2C100%2B+Contributions+%26+Counting+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<!-- Social Media Icons -->
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.misbahurbd.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="https://facebook.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-<div align="center">
-  <a href="https://facebook.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pinterest.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
-  <a href="https://twitter.com/misbahurbd" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://youtube.com/@misbahurbd" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
-</div>
+---
 
-<!-- About Me -->
+## 👋 Hey, I'm Misbahur Rahman
 
-## 👋 About Me
+I'm a **full-stack web developer** from Sylhet, Bangladesh with 7+ years of hands-on experience building production-grade web applications. I co-founded **[Pxlhut](https://github.com/pxlhut)** — a SaaS & web application studio — where I architect and ship real products used by real people.
 
-Hello, I'm Misbahur Rahman, a tech enthusiast and full-stack web developer based in the picturesque town of Moulvibazar, Bangladesh. When I'm not crafting code, I'm immersed in sci-fi movies, globe-trotting, exploring new frontiers through online tutorials, and indulging in sports.
+I don't just write code — I build systems. From Redis-backed session management to cursor-based infinite scroll feeds, from IELTS prep platforms to social media apps, I love the craft of turning complex problems into clean, scalable solutions.
 
-<!-- Professional Journey -->
+> *"Code is my medium, the web is my canvas."*
 
-## 🚀 Professional Journey
+---
 
-My odyssey in the digital realm began immediately after completing my higher-secondary education. Fueled by an insatiable thirst for knowledge, I delved into the world of web development. Eager to expand my skill set, I embarked on a diploma in web development at "Shahjalal University of Science and Technology" in late 2017, marking my transition into the world of full-stack development.
+## 🚀 What I've Been Building
 
-<!-- Professional Accomplishments -->
+### 🌐 BuddyZone — Social Media Platform
+A **full-featured social feed app** with real-time interactions, multi-type reactions (Like/Love/Care/Haha/Wow/Sad/Angry), nested comments, cursor-based infinite scroll, and Cloudinary-powered image uploads.
+- **Stack:** Next.js 16 · React 19 · NestJS 11 · PostgreSQL · Redis · Prisma · TanStack Query · Zustand
+- **Highlights:** Session auth with Redis, Argon2 password hashing, Swagger API docs, optimistic UI updates
 
-## 🌟 Professional Accomplishments
+### 🎓 IELTShut — IELTS Prep SaaS *(@ Pxlhut)*
+A comprehensive IELTS preparation platform being built at Pxlhut. Full test simulation, performance analytics, and a content management system for instructors.
+- **Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma
 
-I have had the privilege of working on thrilling projects with companies in the cargo, music, and e-commerce sectors. I love working with code, and for me, it's like playing an exhilarating game. My ambition is to be recognized as the top developer in my country in the coming years.
+### 🤝 Ummah Hands *(@ Pxlhut)*
+A charity/donation platform connecting donors with causes — complete with an admin dashboard and real-time campaign tracking.
+- **Stack:** Next.js · NestJS · TypeScript
 
-<!-- status -->
+### 🧠 Mastermind Portal *(@ Pxlhut)*
+An internal management portal supporting multi-role access, dashboards, and workflow automation for business operations.
+- **Stack:** Next.js · NestJS · TypeScript · PostgreSQL
 
-## 📊 Profile Statistics
+### 💼 Personal Portfolio v2
+A fully custom-built developer portfolio with a CMS-backed dashboard, project showcase, and contact system.
+- **Stack:** Next.js · TypeScript · Tailwind CSS
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=misbahurbd&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=misbahurbd&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="misbahurbd" />
-</div>
+---
 
+## 🛠️ Tech Stack
 
-<!-- Skills Section -->
+**Frontend**
 
-## 💡 Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<!-- Front-End Skills -->
+**Backend**
 
-### Front End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Databases & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=misbahurbd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahurbd&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misbahurbd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏢 Organizations
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next JS-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS">
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <a href="https://github.com/pxlhut"><img src="https://github.com/pxlhut.png" width="60" style="border-radius:10px" alt="Pxlhut" /></a>
+  &nbsp;&nbsp;
+  <b><a href="https://github.com/pxlhut">Pxlhut</a></b> — SaaS & web application studio based in Sylhet, Bangladesh. Building IELTS prep platforms, charity apps, and management portals with TypeScript, Next.js, and NestJS.
 </p>
 
-<!-- Backend Skills -->
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-</p>
-
-<!-- Tools Skills -->
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify">
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
-
-
-<!-- Connect Section -->
+---
 
 ## 📬 Let's Connect
 
-Feel free to reach out on various social media platforms and my website. Let's collaborate on exciting projects or engage in thought-provoking conversations about the latest trends in the tech world. Together, we can pave the way to a brighter, tech-savvy future!
+I'm always open to interesting projects, collaborations, and conversations. Whether you have a startup idea, need a technical co-founder perspective, or just want to geek out about TypeScript — reach out!
+
+<p align="center">
+  <a href="https://www.misbahurbd.com">🌐 misbahurbd.com</a> &nbsp;|&nbsp;
+  <a href="mailto:hello@misbahurbd.com">✉️ hello@misbahurbd.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/misbahurbd">💼 LinkedIn</a>
+</p>
