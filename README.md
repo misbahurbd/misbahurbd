@@ -112,17 +112,15 @@ A fully custom developer portfolio with a CMS-backed dashboard, project showcase
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=misbahurbd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahurbd&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=misbahurbd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=misbahurbd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
+  <img src="https://streak-stats.demolab.com?user=misbahurbd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ## 🏢 Organizations
