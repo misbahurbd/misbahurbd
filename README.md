@@ -111,20 +111,18 @@ A fully custom developer portfolio with a CMS-backed dashboard, project showcase
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.demolab.com/api?username=misbahurbd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.demolab.com/api/top-langs/?username=misbahurbd&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=misbahurbd&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=misbahurbd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=misbahurbd&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
----
 
 ## 🏢 Organizations
 
