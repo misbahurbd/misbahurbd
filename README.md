@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/misbahurbd">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;NestJS+%2B+Next.js+Architect+%F0%9F%8F%97%EF%B8%8F;Building+SaaS+%40+AppifyLab+%26+Pxlhut+%F0%9F%92%BC;4%2C100%2B+Contributions+%26+Counting+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&random=false&width=620&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;NestJS+%2B+Next.js+Architect+%F0%9F%8F%97%EF%B8%8F;Building+EzyCourse+%40+AppifyLab+%F0%9F%92%BC;Shipping+SaaS+%40+Pxlhut+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@
 
 ## 👋 Hey, I'm Misbahur Rahman
 
-I'm a **full-stack web developer** from Sylhet, Bangladesh with 7+ years of hands-on experience building production-grade web applications. I work at **[AppifyLab](https://github.com/appifylab)** building the EzyCourse LMS platform, and co-founded **[Pxlhut](https://github.com/pxlhut)** — a SaaS & web application studio. I also consult for organisations like **[Alrushd Independent](https://github.com/alrushd-uk)** in the UK.
+I'm a **full-stack web developer** from Sylhet, Bangladesh with 7+ years of hands-on experience shipping production-grade web applications. I work at **[AppifyLab](https://github.com/appifylab)** building the EzyCourse LMS platform, and run **[Pxlhut](https://github.com/pxlhut)** — my own SaaS studio where I architect and launch products from scratch.
 
-I don't just write code — I build systems. From Redis-backed session management to Hubstaff-style time trackers, from multi-tenant LMS platforms to social media apps, I love the craft of turning complex problems into clean, scalable solutions.
+I don't just write code — I build systems. From multi-tenant LMS platforms and community feeds to IELTS prep SaaS and charity apps, I love turning complex problems into clean, scalable solutions.
 
 > *"Code is my medium, the web is my canvas."*
 
@@ -34,39 +34,38 @@ I don't just write code — I build systems. From Redis-backed session managemen
 ## 🚀 What I've Been Building
 
 ### 📚 EzyCourse — Online Learning Platform *(@ AppifyLab)*
-A **full-scale LMS & community platform** — a monorepo powering EzyStudio dashboard, course creation, a social network feed, live webinars, and multi-tenant architecture. One of the largest codebases I've worked on.
-- **Stack:** Next.js · React · TypeScript · Node.js · AdonisJS · Redux Toolkit · Ant Design · Docker · AWS ECS
-- **Highlights:** Multi-tenant architecture, real-time sockets, webinar studio, course management, social feed
+A **production-scale LMS & community platform** — a Turborepo monorepo housing the EzyStudio dashboard, course builder, a social community feed, live webinar studio, and multi-tenant architecture. One of the biggest and most active codebases I work on daily.
+- **Stack:** Next.js · React · TypeScript · AdonisJS · Redux Toolkit · Tiptap · Ant Design · Socket.io · Docker · Turbo
+- **My contributions:** Community feed features, post/emoji/poll interactions, white-label support, builder font settings, members pagination, channel management, PR reviews & releases
 
-### 🖥️ StaffLog — Hubstaff-style Time Tracker *(@ AppifyLab)*
-A **monorepo time-tracking system** with a Flutter desktop app for employees, a Next.js web panel for managers, and an AdonisJS API — deployed to AWS ECS with automated CI/CD via GitHub Actions.
-- **Stack:** Next.js 16 · AdonisJS 7 · TypeScript · Flutter · MySQL · Docker · AWS ECS · Turborepo
-- **Highlights:** Multi-tenancy, platform operator panel, workspace panel, ECS deployments, health probes
-
-### 🎓 Courseporium — Course Platform *(@ AppifyLab)*
-A Next.js-based course platform with a contributor-first codebase, pnpm workspaces, and ESLint/Prettier enforcement.
+### 📖 Courseporium — Course Management App *(@ AppifyLab)*
+A Next.js course platform handling pricing, installments, multi-currency, and event registration — with a tight PR workflow and shared ESLint/Prettier config.
 - **Stack:** Next.js · TypeScript · Redux Toolkit · Ant Design · pnpm
+- **My contributions:** Advance installment pricing, multi-currency support, event registration counts, price form fixes
 
-### 🌐 BuddyZone — Social Media Platform
-A **full-featured social feed app** with multi-type reactions (Like/Love/Care/Haha/Wow/Sad/Angry), nested comments, cursor-based infinite scroll, and Cloudinary-powered image uploads.
+### 🎓 IELTShut — IELTS Prep SaaS *(@ Pxlhut)*
+A **multi-tenant IELTS preparation platform** built as a monorepo. Features exam modules with timers, fullscreen mode, highlight & note tools, branch-level access control, and a TanStack Router-powered desktop client.
+- **Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma · TanStack Router · Turborepo
+- **My contributions:** Exam panel, timer & focus mode, highlight/notes, branch access control, multi-SaaS scaffold, desktop app refactor
+
+### 🤝 Ummah Hands — Charity Platform *(@ Pxlhut)*
+A **full-stack charity & donation platform** — frontend and backend — connecting donors with causes, with campaign management, extra donation flows, and a multi-role admin dashboard.
+- **Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma
+- **My contributions:** Full frontend + backend across 300+ PRs, donation flows, bug fixes, feature releases
+
+### 🧠 Mastermind Portal *(@ Pxlhut)*
+An internal management portal with exam modules, highlight & note tools, fullscreen exam UI, multi-role access, and Docker-based deployment.
+- **Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Docker
+- **My contributions:** Exam submit flow, timer & serial focus, highlight/notes, deployment setup
+
+### 🌐 BuddyZone — Social Media Platform *(Personal)*
+A **full-featured social feed app** built from scratch. Multi-type reactions (Like/Love/Care/Haha/Wow/Sad/Angry), nested comments, cursor-based infinite scroll, and Cloudinary image uploads.
 - **Stack:** Next.js 16 · React 19 · NestJS 11 · PostgreSQL · Redis · Prisma · TanStack Query · Zustand
 - **Highlights:** Session auth with Redis, Argon2 password hashing, Swagger API docs, optimistic UI updates
 
-### 🎓 IELTShut — IELTS Prep SaaS *(@ Pxlhut)*
-A comprehensive IELTS preparation platform with full test simulation, performance analytics, and a CMS for instructors.
-- **Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Prisma
-
-### 🤝 Ummah Hands *(@ Pxlhut)*
-A charity/donation platform connecting donors with causes — complete with an admin dashboard and real-time campaign tracking.
-- **Stack:** Next.js · NestJS · TypeScript
-
-### 🏫 Alrushd School App *(@ Alrushd Independent UK)*
-A school management application and digital forms/CRM system for Alrushd Independent, a UK-based institution.
-- **Stack:** Vue.js · PHP · Laravel · Blade
-
-### 🧠 Mastermind Portal *(@ Pxlhut)*
-An internal management portal supporting multi-role access, dashboards, and workflow automation for business operations.
-- **Stack:** Next.js · NestJS · TypeScript · PostgreSQL
+### 💼 Personal Portfolio v2 *(Personal)*
+A fully custom developer portfolio with a CMS-backed dashboard, project showcase, and contact system.
+- **Stack:** Next.js · TypeScript · Tailwind CSS · NestJS
 
 ---
 
@@ -80,7 +79,6 @@ An internal management portal supporting multi-role access, dashboards, and work
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -92,10 +90,8 @@ An internal management portal supporting multi-role access, dashboards, and work
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Databases & Infra**
 
@@ -109,13 +105,10 @@ An internal management portal supporting multi-role access, dashboards, and work
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -142,7 +135,7 @@ An internal management portal supporting multi-role access, dashboards, and work
         <b>AppifyLab</b>
       </a>
     </td>
-    <td>Building <b>EzyCourse</b> — a feature-rich LMS & community platform — plus <b>StaffLog</b> (Hubstaff-style time tracker) and more. Real-world, production TypeScript at scale.</td>
+    <td>Building <b>EzyCourse</b> — a full-scale LMS & community platform with course builder, live webinars, social feed, and multi-tenant architecture — plus <b>Courseporium</b>. Production TypeScript at scale, daily.</td>
   </tr>
   <tr>
     <td align="center" width="120">
@@ -151,16 +144,7 @@ An internal management portal supporting multi-role access, dashboards, and work
         <b>Pxlhut</b>
       </a>
     </td>
-    <td>SaaS & web application studio based in Sylhet, Bangladesh. Building <b>IELTShut</b> (IELTS prep SaaS), <b>Ummah Hands</b> (charity platform), and management portals with Next.js and NestJS.</td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/alrushd-uk">
-        <img src="https://github.com/alrushd-uk.png" width="60" style="border-radius:8px" alt="Alrushd UK" /><br/>
-        <b>Alrushd UK</b>
-      </a>
-    </td>
-    <td>UK-based independent school. Built a school management app, digital forms, and a CRM system using Vue.js, PHP, and Laravel.</td>
+    <td>My own SaaS & web application studio based in Sylhet, Bangladesh. Built <b>IELTShut</b> (multi-tenant IELTS prep SaaS), <b>Ummah Hands</b> (charity platform), and <b>Mastermind Portal</b> with Next.js and NestJS.</td>
   </tr>
 </table>
 
@@ -168,7 +152,7 @@ An internal management portal supporting multi-role access, dashboards, and work
 
 ## 📬 Let's Connect
 
-I'm always open to interesting projects, collaborations, and conversations. Whether you have a startup idea, need a technical co-founder perspective, or just want to geek out about TypeScript — reach out!
+I'm always open to interesting projects, collaborations, and conversations. Whether you have a product idea, need a senior developer, or just want to talk TypeScript — reach out!
 
 <p align="center">
   <a href="https://www.misbahurbd.com">🌐 misbahurbd.com</a> &nbsp;|&nbsp;
